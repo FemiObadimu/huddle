@@ -82,7 +82,7 @@ footer{
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: flex-end;
-    padding: 30px;
+    padding: 10px 30px ;
         
 }
 
