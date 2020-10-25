@@ -153,9 +153,9 @@ footer{
        position: absolute;
        bottom:20px;
        display: flex;
-       flex-direction: row;
+       flex-direction:column;
        flex-wrap: nowrap;
-       justify-content: center;
+       justify-content: flex-end;
        align-items: center;
        
         
